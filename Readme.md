@@ -1,2 +1,2 @@
-# hello from sosc
-# github practice
+# hello from veja
+# learning about github
